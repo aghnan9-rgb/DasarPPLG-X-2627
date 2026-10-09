@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME_GITHUB_KAMU&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=aghnan9-rgb&style=flat-square)
 
 # Hello World, I'm Aghnan Aiszar 👋 aka Nan ⭐
 
@@ -49,11 +49,11 @@
 
 <div align="center">
 
-<a href="https://github.com/USERNAME_GITHUB_KAMU">
+<a href="https://github.com/aghnan9-rgb">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aghnan9-rgb&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&langs_count=7&theme=default"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghnan9-rgb &layout=compact&langs_count=7&theme=default"/>
 
 </a>
 
@@ -73,7 +73,7 @@
 
 ## 📫 Let's Connect
 
-<a href="https://github.com/USERNAME_GITHUB_KAMU">
+<a href="https://github.com/aghnan9-rgb">
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
