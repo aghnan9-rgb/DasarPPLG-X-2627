@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=aghnan9-rgb&style=flat-square)
 
-# Hello World, I'm Aghnan Aiszar 👋 aka Nan ⭐
+# Hello World, I'm Aghnan Aiszar 👋
 
 <img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="300"/>
 
